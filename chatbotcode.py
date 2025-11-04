@@ -2,7 +2,6 @@
 !pip install -U langchain-core langchain-community langchain-groq
 
 '''Dependencies getting installed'''
-
 #cell 2 execution:
 pip install streamlit langchain-groq langchain python-dotenv
 
